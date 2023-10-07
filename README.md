@@ -50,7 +50,7 @@ while (p <= 1000): #<cond> se repiten los numeros que sean menores o iguales a 1
 
 ```mermaid
 graph TD;
-  A(i = 1 #INICIO) --> B[P = 2 #INICIO]
+  A(i = 1 #INICIO) --> B[P = 2 #INICIO];
   B --> C{i es menor o igual a 999? #COND};
   C --No--> E(IMPRIME SU VALOR FINAL ES: 1000 #BLOQUE_SIGUI);
   C --Sí--> D[SUMA I + 1 #ACTUALIZA];
