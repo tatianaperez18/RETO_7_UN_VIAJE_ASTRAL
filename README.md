@@ -70,4 +70,4 @@ graph TD;
   K --> O(FINALIZA);
   M --> O(FINALIZA); 
 ```
-3. 
+3. Imprimir los números pares en forma descendente hasta 2 que son menores o iguales a un número natural n ≥ 2 dado
